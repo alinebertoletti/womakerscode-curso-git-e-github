@@ -2,4 +2,9 @@
 
 ## estudar markdown!
 
-## nota 2
+## instalacao do git
+
+## configuracao git
+
+## comandos
+
