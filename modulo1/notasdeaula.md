@@ -6,5 +6,4 @@
 
 ## configuracao git
 
-## comandos
 
